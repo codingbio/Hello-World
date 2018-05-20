@@ -1,2 +1,2 @@
 # Hello-World
-This is me trying to naviaget GitHub
+This is me trying to navigate GitHub
